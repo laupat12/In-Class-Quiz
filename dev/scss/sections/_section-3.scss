@@ -1,0 +1,31 @@
+#section-3 { 
+    padding:20px;
+    display: inline-grid;
+    grid-row-gap: 40px;
+    font-family: 'Comforta', sans-serif;
+    justify-items: center;
+
+    #hanging-wall{
+        background-color:lightgray;
+        padding: 20px;
+        display: grid;
+        justify-items: center;
+    }
+
+    #letterpress{
+        background-color:lightgray;
+        padding: 20px;
+        display: grid;
+        justify-items: center;
+    }
+
+    #realistic-card{
+        background-color:lightgray;
+        padding: 20px;
+        display: grid;
+        justify-items: center;
+    }
+
+
+   
+}

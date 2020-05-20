@@ -2,8 +2,22 @@
     Section 1
 ============= */
 #section-1{
-    .grid-content{
+    
         
-    }
+        background-image: url('/Users/laurenpatrice/Documents/GitHub/In-Class-Quiz/deploy/img/section 1/main_slide_21.jpg');
+        background-position: center;
+        background-size: cover;
+        height: 100%;
+
+        #header{
+            display: grid;
+            justify-items: center;
+            font-family: 'Comforta', sans-serif;
+            
+
+        }
+       
+        
+    
 
 }
